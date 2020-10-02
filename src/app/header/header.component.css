@@ -1,0 +1,16 @@
+#brand {
+    letter-spacing: 1px;
+    font: bold;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+#menuTopo {
+    font: bold;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+
+#nav{
+    background-color:#004466;
+}

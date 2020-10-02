@@ -1,0 +1,14 @@
+#center {
+    background-color: #00cc99;
+    height: 500px;
+}
+
+#titulo {
+    color: white;
+    letter-spacing: 5px;
+}
+
+#texto {
+    color: white;
+    letter-spacing: 1px;
+}
